@@ -24,3 +24,13 @@ An integrated **Java Swing-based desktop application** that allows tourists to b
 
 ## 🏗️ Folder Structure
 
+```
+TourismManagementSystem/
+├── src/
+│ ├── Main.java
+│ ├── LoginForm.java
+│ ├── Dashboard.java
+│ └── DatabaseConnection.java
+├── tourism_db.sql
+└── lib/
+└── mysql-connector-java.jar
