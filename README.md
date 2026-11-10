@@ -139,3 +139,13 @@ Tourism-Management-System/
 ---
 
 Feedback and suggestions are welcome through GitHub Issues.
+
+## Screenshots
+
+### Application Preview
+
+![Tourism Management System - Preview 1](screenshots/tourism-screenshot-1.png)
+
+![Tourism Management System - Preview 2](screenshots/tourism-screenshot-2.png)
+
+![Tourism Management System - Preview 3](screenshots/tourism-screenshot-3.png)
